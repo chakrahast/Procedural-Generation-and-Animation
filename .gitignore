@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# CMake
+/build/
+CMakeFiles
+CMakeCache.txt
+*.cmake
+Makefile
+
+# SFML binaries (optional)
+*.dylib
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# vscode config
+.vscode/
+
+
